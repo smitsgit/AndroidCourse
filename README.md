@@ -1,7 +1,8 @@
 # AndroidCourse
-
+[ Prerequisites - Understanding of the basic Java
+  Note - We can cover this too ] 
 ### Tools and Setup
-* Android Studio [IDE]
+* Android Studio [ IDE ]
 * Commonly used shortcuts for source navigation
 * Understanding the different templates in the studio
 * Exploring the samples 
@@ -24,9 +25,21 @@
 * okhttp
 * retrofit 
 * butterknife
+* realm
 
 ### Basic todo app 
+* Understanding the app architecture
+* building the layout 
+* storing the todos 
+* Ability to add / edit / delete and complete the todos
+* Exploring the designs
+
 ### Basic Weather app 
+* Understanding Rest api 
+* Interacting with the api 
+* Best practices followed for the communication 
+* Storing the json into models 
+* updating the UI accordingly 
 
 # Resources for further exploration
 - We will provide you enough resources to make yourself comfortable to begin your journey down the awesomeness on your own with community support
