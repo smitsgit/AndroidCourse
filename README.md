@@ -51,6 +51,6 @@
  - BE - Electronics [ VIT - Pune University ] 
  - PG Diploma Embedded Systems -[ CDAC - Hyderabad ] 
 * **Onsite Experience -** 5 years in Qualcomm , San Diego [ California - USA ] 
-* **Current :** Working as Product Engineer on Android App at Go-Jek [ Indonesian Startup ] ( Over million downloads ) 
+* **Current :** Working as Product Engineer on Android App with over million downloads at Go-Jek [ https://www.go-jek.com/ ]
 * **linkedin :** https://www.linkedin.com/in/smitald/
 * **Github :**  https://github.com/smitsgit
