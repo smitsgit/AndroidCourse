@@ -43,3 +43,14 @@
 
 # Resources for further exploration
 - We will provide you enough resources to make yourself comfortable to begin your journey down the awesomeness on your own with community support
+
+# Instructor 
+### Smital Desai 
+* 9 years of professional experience in Embedded Systems
+* **Academics**
+ - BE - Electronics [ VIT - Pune University ] 
+ - PG Diploma Embedded Systems -[ CDAC - Hyderabad ] 
+* **Onsite Experience -** 5 years in Qualcomm , San Diego [ California - USA ] 
+* **Current :** Working as Product Engineer on Android App at Go-Jek [ Indonesian Startup ] ( Over million downloads ) 
+* **linkedin :** https://www.linkedin.com/in/smitald/
+* **Github :**  https://github.com/smitsgit
